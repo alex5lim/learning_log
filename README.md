@@ -1,2 +1,2 @@
 # Learning Log
-Learning log website using Django
+Simple learning log web app using Django
